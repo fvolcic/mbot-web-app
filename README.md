@@ -27,7 +27,7 @@ bash <(curl -s https://raw.githubusercontent.com/fvolcic/mbot-web-app/refs/heads
 Uninstalls the web app and nginx from your machine
 
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/rob102-staff/mbot-web-app/main/setup/scripts/uninstall.sh)
+bash <(curl -s https://raw.githubusercontent.com/fvolcic/mbot-web-app/refs/heads/main/setup/scripts/uninstall.sh)
 ```
 
 ## Creating a new mbot package
