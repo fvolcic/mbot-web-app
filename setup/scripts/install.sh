@@ -12,7 +12,7 @@ mkdir -p ~/tmp/mbot-install
 cd ~/tmp/mbot-install
 
 # Clone mbot repository
-git clone "https://github.com/rob102-staff/mbot-web-app.git"
+git clone "https://github.com/fvolcic/mbot-web-app.git"
 cd mbot-web-app
 
 # Create directory for mbot persistent storage api

@@ -19,7 +19,7 @@ linux command line. It will automatically install
 -> <b>Default mbot packages</b> - Home Page, Drive Control, Settings<br>
 
 ```sh
-bash <(curl -s https://raw.githubusercontent.com/rob102-staff/mbot-web-app/main/setup/scripts/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/fvolcic/mbot-web-app/refs/heads/main/setup/scripts/install.sh)
 ```
 
 ## Quick Uninstall
