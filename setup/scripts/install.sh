@@ -36,8 +36,8 @@ sudo systemctl restart nginx
 
 # setup the mbot cli
 sudo mkdir /data/mbot/cli
-sudo cp ~/tmp/mbot-install/mbot-web-app/mbot-web-app-cli/*.py /data/mbot/cli
-python3 -m pip install -r ~/tmp/mbot-install/mbot-web-app/mbot-web-app-cli/requirements.txt
+sudo cp ~/tmp/mbot-install/mbot-web-app/cli/*.py /data/mbot/cli
+python3 -m pip install -r ~/tmp/mbot-install/mbot-web-app/cli/requirements.txt
 sudo chmod a+x /data/mbot/cli/cli.py
 sudo ln -s /data/mbot/cli/cli.py /usr/local/bin/mbot-cli
 
